@@ -26,7 +26,20 @@ John Dunne
 ## About this Assignment
 This assignment concerns the numpy.random package in Python. In completing this assignment I will try to explain in detail the use of the numpy.random package in Python using explanations and examples. I will create a jupyter notebook and use this to show examples of numpy.random and its uses.
 
-**There are 4 main sections in this assignment**
+## What is NumPy?
+The official NumPy documentation is here: https://numpy.org/. 
+
+I have taken the below section from the offical NumPy documentation to help explain the package further:
+
+*NumPy is the fundamental package for scientific computing with Python. It contains among other things:*
+
+* *a powerful N-dimensional array object*
+* *sophisticated (broadcasting) functions*
+* *tools for integrating C/C++ and Fortran code*
+* *useful linear algebra, Fourier transform, and random number capabilities*
+**Taken from NumPy documentations here: https://numpy.org/**
+
+## There are 4 main sections in this assignment
 * Explain the overall use of the numpy.random package.
 * Explain the use of the "Simple random data" and Permutations" functions.
 * Explain the use and purpose of at least five "Distributions" functions.
@@ -34,16 +47,19 @@ This assignment concerns the numpy.random package in Python. In completing this 
 
 ## Further Details on each section of the project in the jupyter notebook
 
-**Section 1 - What is numpy.random?**
+### Section 1 - What is numpy.random?**
 numpy.random is a package in Python that is used to generate random sampling from a set of parameters entered by the user.
-The official numpy.random documentation can be viewed here: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html. There are many different functions within the numpy.random package which can be used for different purposes and a full list of the functions is shown in the documentation. 
+The official numpy.random documentation can be viewed here: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html. There are many different functions within the numpy.random package which can be used for different purposes and a full list of the functions is shown in the documentation at the link above. 
 
-**Section 2 - "Simple Random Data and Permutations**
+### Section 2 - "Simple Random Data and Permutations**
 
-**Section 3 - "Distributions"**
+### Section 3 - "Distributions"**
 
-**Section 4  - The use of Seeds in generating pseudorandom numbers**
+### Section 4  - The use of Seeds in generating pseudorandom numbers**
 
 ## References 
 **This section contains details on the references and research that went into compiling this project.**
+* How to write to Readme file in markdown: https://guides.github.com/features/mastering-markdown/ 
+* Official numpy documentation: https://numpy.org/
+* numpy.random documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
 
