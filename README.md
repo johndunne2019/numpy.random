@@ -32,9 +32,17 @@ This assignment concerns the numpy.random package in Python. In completing this 
 * Explain the use and purpose of at least five "Distributions" functions.
 * Explain the use of seeds in generating pseudorandom numbers. 
 
-## What is numpy.random?
+## Further Details on each section of the project in the jupyter notebook
+
+**Section 1 - What is numpy.random?**
 numpy.random is a package in Python that is used to generate random sampling from a set of parameters entered by the user.
 The official numpy.random documentation can be viewed here: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html. There are many different functions within the numpy.random package which can be used for different purposes and a full list of the functions is shown in the documentation. 
+
+**Section 2 - "Simple Random Data and Permutations**
+
+**Section 3 - "Distributions"**
+
+**Section 4  - The use of Seeds in generating pseudorandom numbers**
 
 ## References 
 **This section contains details on the references and research that went into compiling this project.**
