@@ -27,7 +27,7 @@ John Dunne
 This assignment concerns the numpy.random package in Python. In completing this assignment I will try to explain in detail the use of the numpy.random package in Python using explanations and examples. I will create a jupyter notebook and use this to show examples of numpy.random and its uses.
 
 ## What is NumPy?
-The official NumPy documentation is here: https://numpy.org/. NumPy is used to work with arrays and provides many different functions that can be used to work with arrays. One important point to note that was discussed in one of the lecture videos is that NumPy likes all the data it is working with to be the same type, for example all floating point or all integers. Another useful package that can be used to work with data sets that have combinations of different data types is pandas. 
+The official NumPy documentation is here: https://numpy.org/ and the tutorial is here: https://numpy.org/devdocs/user/quickstart.html. NumPy is used to work with arrays and provides many different functions that can be used to work with arrays. One important point to note that was discussed in one of the lecture videos is that NumPy likes all the data it is working with to be the same type, for example all floating point or all integers. Another useful package that can be used to work with data sets that have combinations of different data types is pandas.  
 
 I have taken the below section from the official NumPy documentation to help explain the package further:
 
@@ -40,6 +40,14 @@ I have taken the below section from the official NumPy documentation to help exp
 
 **Taken from NumPy documentations here: https://numpy.org/**
 
+The main object within NumPy is the multidimensional array. An array is a table of elements that contains data all of the same type, usually numbers. An example array would look like - [1,2,3,4]. The array class in NumPy is known as ndarray or numpy.array and withing this class there are many functions that can be used to manipulate datas within arrays. Some examples are:
+
+* ndarray.ndim - returns the number of axes in an array
+* ndarray.shape - returns the dimensions of the array, for example the number of rows and columns
+* ndarray.size - the total number of elements in the array
+
+Some examples are shown in the jupyter notebook that I have written.
+
 ## There are 4 main sections in this assignment
 * Explain the overall use of the numpy.random package.
 * Explain the use of the "Simple random data" and Permutations" functions.
@@ -48,7 +56,7 @@ I have taken the below section from the official NumPy documentation to help exp
 
 ## Further Details on each section of the project in the jupyter notebook
 
-### Section 1 - What is numpy.random?
+### Section 1 - What is numpy.random and what is the overall purpose of the package?
 numpy.random is a package in Python that is used to generate random sampling from a set of parameters entered by the user.
 The official numpy.random documentation can be viewed here: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html. There are many different functions within the numpy.random package which can be used for different purposes and a full list of the functions is shown in the documentation at the link above. 
 
@@ -62,5 +70,6 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 **This section contains details on the references and research that went into compiling this project.**
 * How to write to Readme file in markdown: https://guides.github.com/features/mastering-markdown/ 
 * Official numpy documentation: https://numpy.org/
+* Official NumPy tutorial: https://numpy.org/devdocs/user/quickstart.html
 * numpy.random documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
 
