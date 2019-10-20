@@ -72,4 +72,5 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * Official numpy documentation: https://numpy.org/
 * Official NumPy tutorial: https://numpy.org/devdocs/user/quickstart.html
 * numpy.random documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
+* Simple Random Data full list of functions:  https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html#simple-random-data
 
