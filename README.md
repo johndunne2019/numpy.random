@@ -60,7 +60,7 @@ Some examples are shown in the jupyter notebook that I have written.
 numpy.random is a package in Python that is used to generate random sampling from a set of parameters entered by the user.
 The official numpy.random documentation can be viewed here: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html. There are many different functions within the numpy.random package which can be used for different purposes and a full list of the functions is shown in the documentation at the link above. 
 
-### Section 2 - "Simple Random Data and Permutations
+### Section 2 - "Simple Random Data" and "Permutations"
 
 ### Section 3 - "Distributions"
 
@@ -71,6 +71,8 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * How to write to Readme file in markdown: https://guides.github.com/features/mastering-markdown/ 
 * Official numpy documentation: https://numpy.org/
 * Official NumPy tutorial: https://numpy.org/devdocs/user/quickstart.html
+* What is NumPy: https://docs.scipy.org/doc/numpy-1.13.0/user/whatisnumpy.html
 * numpy.random documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
 * Simple Random Data full list of functions:  https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html#simple-random-data
+* numpy.random.rand documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.rand.html#numpy.random.rand
 
