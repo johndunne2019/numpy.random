@@ -75,5 +75,6 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * numpy.random documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
 * Simple Random Data full list of functions:  https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html#simple-random-data
 * numpy.random.rand documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.rand.html#numpy.random.rand
+* Uniform distribution: http://mathworld.wolfram.com/UniformDistribution.html
 * Learn NumPy in 5 minutes tutorial: https://www.youtube.com/watch?v=xECXZ3tyONo
 
