@@ -69,12 +69,20 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 ## References 
 **This section contains details on the references and research that went into compiling this project.**
 * How to write to Readme file in markdown: https://guides.github.com/features/mastering-markdown/ 
+
+**NumPy**
 * Official numpy documentation: https://numpy.org/
 * Official NumPy tutorial: https://numpy.org/devdocs/user/quickstart.html
 * What is NumPy: https://docs.scipy.org/doc/numpy-1.13.0/user/whatisnumpy.html
+
+**numpy.random**
 * numpy.random documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
+
+**Simple Random Data**
 * Simple Random Data full list of functions:  https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html#simple-random-data
 * numpy.random.rand documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.rand.html#numpy.random.rand
 * Uniform distribution: http://mathworld.wolfram.com/UniformDistribution.html
+* numpy.random.randn: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.randn.html#numpy.random.randn
+* Normal distribution: https://www.tutorialspoint.com/python_data_science/python_normal_distribution.htm
 * Learn NumPy in 5 minutes tutorial: https://www.youtube.com/watch?v=xECXZ3tyONo
 
