@@ -81,6 +81,9 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * matplotblib.pylplot.show(): https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.show.html#matplotlib.pyplot.show
 * matplotlib.pyplot.plot(): https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.plot.html#matplotlib.pyplot.plot
 * matplotlib.pyplot.title(): https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.title.html#matplotlib.pyplot.title
+* matplotlib.pyplot.xlabel: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.xlabel.html#matplotlib.pyplot.xlabel
+* matplotlib.pyplot.ylabel: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.ylabel.html#matplotlib.pyplot.ylabel
+* matplotlib.pyplot.hist(): https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.hist.html#matplotlib.pyplot.hist
 
 **numpy.random**
 * numpy.random documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
