@@ -76,6 +76,12 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * What is NumPy: https://docs.scipy.org/doc/numpy-1.13.0/user/whatisnumpy.html
 * Learn NumPy in 5 minutes tutorial: https://www.youtube.com/watch?v=xECXZ3tyONo
 
+**matplotlib**
+* matplotlib.pyplot documentation: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.html
+* matplotblib.pylplot.show(): https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.show.html#matplotlib.pyplot.show
+* matplotlib.pyplot.plot(): https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.plot.html#matplotlib.pyplot.plot
+* matplotlib.pyplot.title(): https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.title.html#matplotlib.pyplot.title
+
 **numpy.random**
 * numpy.random documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
 
