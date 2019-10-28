@@ -108,11 +108,19 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * Normal distribution: https://www.tutorialspoint.com/python_data_science/python_normal_distribution.htm
 * numpy.random.bytes: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.bytes.html#numpy.random.bytes
 
-
 **Section 2.2 - Permutations**
 * numpy.random Permutations documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
 * numpy.random.shuffle documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.shuffle.html#numpy.random.shuffle
 * How to randomly shuffle an array in python using numpy- https://www.science-emergence.com/Articles/How-to-randomly-shuffle-an-array-in-python-using-numpy/
+* numpy.random.permutation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.permutation.html#numpy.random.permutation
+* There is a good explanation of the difference between numpy.random.shuffle and numpy.random.permutation here: https://stackoverflow.com/questions/15474159/shuffle-vs-permute-numpy
+* numpy.random.permutation: https://docs.w3cub.com/numpy~1.14/generated/numpy.random.permutation/
 
+**Section 3 - Distributions**
+* This is the link to the documentation on Distributions within the numpy.random function: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
 
-* numpy.random.permutations: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.permutation.html#numpy.random.permutation
+**Section 3.1 - standard_normal([size])**
+* numpy.random.standard_normal documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.standard_normal.html#numpy.random.standard_normal
+
+**Section 3.2 - uniform([low, high, size])**
+* numpy.random.uniform documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.uniform.html#numpy.random.uniform
