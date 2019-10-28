@@ -62,6 +62,12 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 
 ### Section 2 - "Simple Random Data" and "Permutations"
 
+**Section 2.1 - Simple Random Data**
+
+
+**Section 2.2 - Permutations**
+
+
 ### Section 3 - "Distributions"
 
 ### Section 4  - The use of Seeds in generating pseudorandom numbers
@@ -90,14 +96,23 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * Changing line size and line width read in the text section of the matplotlib.pyplot documentation: https://matplotlib.org/tutorials/introductory/pyplot.html
 * Changing the appearance of a line in a plot in pyplot: https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/
 
-**numpy.random**
+**Section 1 - What is numpy.random and what is the overall purpose of the package**
 * numpy.random documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
 
 
-**Simple Random Data**
+**Section 2.1 - Simple Random Data**
 * Simple Random Data full list of functions:  https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html#simple-random-data
 * numpy.random.rand documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.rand.html#numpy.random.rand
 * Uniform distribution: http://mathworld.wolfram.com/UniformDistribution.html
 * numpy.random.randn: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.randn.html#numpy.random.randn
 * Normal distribution: https://www.tutorialspoint.com/python_data_science/python_normal_distribution.htm
 * numpy.random.bytes: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.bytes.html#numpy.random.bytes
+
+
+**Section 2.2 - Permutations**
+* numpy.random Permutations documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
+* numpy.random.shuffle documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.shuffle.html#numpy.random.shuffle
+* How to randomly shuffle an array in python using numpy- https://www.science-emergence.com/Articles/How-to-randomly-shuffle-an-array-in-python-using-numpy/
+
+
+* numpy.random.permutations: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.permutation.html#numpy.random.permutation
