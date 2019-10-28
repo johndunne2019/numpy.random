@@ -78,6 +78,7 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 
 **matplotlib**
 * matplotlib.pyplot documentation: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.html
+* Blog post tutorial on matplotlib: https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/
 * matplotblib.pylplot.show(): https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.show.html#matplotlib.pyplot.show
 * matplotlib.pyplot.plot(): https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.plot.html#matplotlib.pyplot.plot
 * matplotlib.pyplot.title(): https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.title.html#matplotlib.pyplot.title
@@ -86,6 +87,8 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * matplotlib.pyplot.hist(): https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.hist.html#matplotlib.pyplot.hist
 * Resizing pyplot plots and figures in jupyter notebook using pylot.rcparams: https://stackoverflow.com/questions/36367986/how-to-make-inline-plots-in-jupyter-notebook-larger
 * pyplot.rcparams documentation: https://matplotlib.org/3.1.1/tutorials/introductory/customizing.html and https://matplotlib.org/3.1.1/api/matplotlib_configuration_api.html#matplotlib.rcParams
+* Changing line size and line width read in the text section of the matplotlib.pyplot documentation: https://matplotlib.org/tutorials/introductory/pyplot.html
+* Changing the appearance of a line in a plot in pyplot: https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/
 
 **numpy.random**
 * numpy.random documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
