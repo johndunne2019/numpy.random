@@ -84,6 +84,8 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * matplotlib.pyplot.xlabel: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.xlabel.html#matplotlib.pyplot.xlabel
 * matplotlib.pyplot.ylabel: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.ylabel.html#matplotlib.pyplot.ylabel
 * matplotlib.pyplot.hist(): https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.hist.html#matplotlib.pyplot.hist
+* Resizing pyplot plots and figures in jupyter notebook using pylot.rcparams: https://stackoverflow.com/questions/36367986/how-to-make-inline-plots-in-jupyter-notebook-larger
+* pyplot.rcparams documentation: https://matplotlib.org/3.1.1/tutorials/introductory/customizing.html and https://matplotlib.org/3.1.1/api/matplotlib_configuration_api.html#matplotlib.rcParams
 
 **numpy.random**
 * numpy.random documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
