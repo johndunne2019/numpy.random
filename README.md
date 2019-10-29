@@ -49,10 +49,10 @@ The main object within NumPy is the multidimensional array. An array is a table 
 Some examples are shown in the jupyter notebook that I have written.
 
 ## There are 4 main sections in this assignment
-* Explain the overall use of the numpy.random package.
-* Explain the use of the "Simple random data" and Permutations" functions.
-* Explain the use and purpose of at least five "Distributions" functions.
-* Explain the use of seeds in generating pseudorandom numbers. 
+1. Explain the overall use of the numpy.random package.
+2. Explain the use of the "Simple random data" and Permutations" functions.
+3. Explain the use and purpose of at least five "Distributions" functions.
+4. Explain the use of seeds in generating pseudorandom numbers. 
 
 ## Further Details on each section of the project in the jupyter notebook
 
@@ -74,7 +74,12 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 
 ## References 
 **This section contains details on the references and research that went into compiling this project.**
-* How to write to Readme file in markdown: https://guides.github.com/features/mastering-markdown/ 
+
+**jupyter notebook**
+* Embed images in jupyter notebook- https://stackoverflow.com/questions/32370281/how-to-embed-image-or-picture-in-jupyter-notebook-either-from-a-local-machine-o
+* Mastering Markdown - https://guides.github.com/features/mastering-markdown/
+* Markdown cells - https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html
+* Markdown - https://www.tutorialspoint.com/jupyter/jupyter_notebook_markdown_cells.htm
 
 **Section 0 - Introduction to NumPy**
 * Official numpy documentation: https://numpy.org/
@@ -158,8 +163,7 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * Uniform distribution: https://www.investopedia.com/terms/u/uniform-distribution.asp
 * Image of uniform distribution: https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.uniform.html
 
-
-**Section 3.1 - standard_normal([size])**
+**Section 3.3 - standard_normal([size])**
 * numpy.random.standard_normal documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.standard_normal.html#numpy.random.standard_normal
 * Image of standard_normal distribution:  https://mathbitsnotebook.com/Algebra2/Statistics/STstandardNormalDistribution.html
 * Definition of standard_normal distribution: https://mathbitsnotebook.com/Algebra2/Statistics/STstandardNormalDistribution.html
