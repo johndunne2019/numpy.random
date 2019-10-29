@@ -145,3 +145,4 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 
 **Section 3.2 - uniform([low, high, size])**
 * numpy.random.uniform documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.uniform.html#numpy.random.uniform
+* Uniform distribution: https://www.investopedia.com/terms/u/uniform-distribution.asp
