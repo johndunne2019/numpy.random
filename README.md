@@ -87,6 +87,7 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * What is NumPy: https://docs.scipy.org/doc/numpy-1.13.0/user/whatisnumpy.html
 * Learn NumPy in 5 minutes tutorial: https://www.youtube.com/watch?v=xECXZ3tyONo
 * Complete Python NumPy tutorial: https://www.youtube.com/watch?v=GB9ByFAIAH4
+* NumPy Python image: https://i2.wp.com/www.simplifiedpython.net/wp-content/uploads/2018/11/Python-NumPy-14.png?resize=595%2C233&ssl=1
 
 **matplotlib**
 * matplotlib.pyplot documentation: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.html
