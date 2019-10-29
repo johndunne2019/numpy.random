@@ -134,6 +134,10 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 **Section 3 - Distributions**
 * This is the link to the documentation on Distributions within the numpy.random function: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
 
+**Section 3.0 - What is a probability Distribution?**
+* Expected value and variance: https://machinelearningmastery.com/what-are-probability-distributions/
+* Probability distribution: https://stattrek.com/probability-distributions/probability-distribution.aspx
+
 **Section 3.1 - normal([loc, scale, size])**
 * numpy.random.normal documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.normal.html#numpy.random.normal
 * Normal distribution- https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/normal-distributions/
