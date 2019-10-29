@@ -76,11 +76,12 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 **This section contains details on the references and research that went into compiling this project.**
 * How to write to Readme file in markdown: https://guides.github.com/features/mastering-markdown/ 
 
-**NumPy**
+**Section 0 - Introduction to NumPy**
 * Official numpy documentation: https://numpy.org/
 * Official NumPy tutorial: https://numpy.org/devdocs/user/quickstart.html
 * What is NumPy: https://docs.scipy.org/doc/numpy-1.13.0/user/whatisnumpy.html
 * Learn NumPy in 5 minutes tutorial: https://www.youtube.com/watch?v=xECXZ3tyONo
+* Complete Python NumPy tutorial: https://www.youtube.com/watch?v=GB9ByFAIAH4
 
 **matplotlib**
 * matplotlib.pyplot documentation: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.html
@@ -109,7 +110,9 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 
 **Section 2.1.2- numpy.random.randn**
 * numpy.random.randn: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.randn.html#numpy.random.randn
+* numpy.random.randn: https://onlinecoursetutorials.com/numpy/numpy-random-randn-function-with-example-in-python/
 * Normal distribution: https://www.tutorialspoint.com/python_data_science/python_normal_distribution.htm
+* Normal distribution: https://www.mathsisfun.com/data/standard-normal-distribution.html
 
 **Section 2.1.3 - numpy.random.bytes**
 * numpy.random.bytes: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.bytes.html#numpy.random.bytes
