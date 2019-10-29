@@ -140,6 +140,7 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * Definition of standard_normal distribution: https://mathbitsnotebook.com/Algebra2/Statistics/STstandardNormalDistribution.html
 * The empirical rule Youtube video: https://www.youtube.com/watch?time_continue=6&v=hQTvdD8vtio
 * What is the empirical rule: https://www.statisticshowto.datasciencecentral.com/empirical-rule-2/ and https://mathbitsnotebook.com/Algebra2/Statistics/STstandardNormalDistribution.html
+* The standard normal distribution: http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/BS704_Probability9.html
 
 
 **Section 3.2 - uniform([low, high, size])**
