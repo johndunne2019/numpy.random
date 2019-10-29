@@ -142,6 +142,12 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * What is the Empirical rule: https://www.statisticshowto.datasciencecentral.com/empirical-rule-2/ and https://mathbitsnotebook.com/Algebra2/Statistics/STstandardNormalDistribution.html
 * Image of the Empirical rule: https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/normal-distributions/
 * Image of the normal bell curve distribution: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FBell-curve-and-standard-deviation_fig3_47554522&psig=AOvVaw1gtLSAMO5j4HibQ1LDTwaI&ust=1572441726238000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCW0pnIweUCFQAAAAAdAAAAABAD
+* numpy.mean: https://docs.scipy.org/doc/numpy/reference/generated/numpy.mean.html
+* numpy.std: https://docs.scipy.org/doc/numpy/reference/generated/numpy.std.html
+* numpy.amin: https://docs.scipy.org/doc/numpy/reference/generated/numpy.amin.html#numpy.amin
+* numpy.amax: https://docs.scipy.org/doc/numpy/reference/generated/numpy.amax.html#numpy.amax
+* numpy.median: https://docs.scipy.org/doc/numpy/reference/generated/numpy.median.html
+* numpy.percentile: https://docs.scipy.org/doc/numpy/reference/generated/numpy.percentile.html#numpy.percentile
 
 **Section 3.2 - uniform([low, high, size])**
 * numpy.random.uniform documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.uniform.html#numpy.random.uniform
