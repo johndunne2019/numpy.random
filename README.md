@@ -134,16 +134,23 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 **Section 3 - Distributions**
 * This is the link to the documentation on Distributions within the numpy.random function: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
 
-**Section 3.1 - standard_normal([size])**
-* numpy.random.standard_normal documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.standard_normal.html#numpy.random.standard_normal
-* Image of standard_normal distribution:  https://mathbitsnotebook.com/Algebra2/Statistics/STstandardNormalDistribution.html
-* Definition of standard_normal distribution: https://mathbitsnotebook.com/Algebra2/Statistics/STstandardNormalDistribution.html
-* The empirical rule Youtube video: https://www.youtube.com/watch?time_continue=6&v=hQTvdD8vtio
-* What is the empirical rule: https://www.statisticshowto.datasciencecentral.com/empirical-rule-2/ and https://mathbitsnotebook.com/Algebra2/Statistics/STstandardNormalDistribution.html
-* The standard normal distribution: http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/BS704_Probability9.html
-
+**Section 3.1 - normal([loc, scale, size])**
+* numpy.random.normal documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.normal.html#numpy.random.normal
+* Normal distribution- https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/normal-distributions/
+* Standard normal distribution: https://mathbitsnotebook.com/Algebra2/Statistics/STstandardNormalDistribution.html
+* The Empirical rule Youtube video: https://www.youtube.com/watch?time_continue=6&v=hQTvdD8vtio
+* What is the Empirical rule: https://www.statisticshowto.datasciencecentral.com/empirical-rule-2/ and https://mathbitsnotebook.com/Algebra2/Statistics/STstandardNormalDistribution.html
+* Image of the Empirical rule: https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/normal-distributions/
+* Image of the normal bell curve distribution: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FBell-curve-and-standard-deviation_fig3_47554522&psig=AOvVaw1gtLSAMO5j4HibQ1LDTwaI&ust=1572441726238000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCW0pnIweUCFQAAAAAdAAAAABAD
 
 **Section 3.2 - uniform([low, high, size])**
 * numpy.random.uniform documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.uniform.html#numpy.random.uniform
 * Uniform distribution: https://www.investopedia.com/terms/u/uniform-distribution.asp
 * Image of uniform distribution: https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.uniform.html
+
+
+**Section 3.1 - standard_normal([size])**
+* numpy.random.standard_normal documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.standard_normal.html#numpy.random.standard_normal
+* Image of standard_normal distribution:  https://mathbitsnotebook.com/Algebra2/Statistics/STstandardNormalDistribution.html
+* Definition of standard_normal distribution: https://mathbitsnotebook.com/Algebra2/Statistics/STstandardNormalDistribution.html
+* The standard normal distribution: http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/BS704_Probability9.html
