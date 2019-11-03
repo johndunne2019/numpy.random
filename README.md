@@ -181,3 +181,4 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * How to tell if an experiment is binomial: https://www.youtube.com/watch?v=NhqkZuWwGrA
 * Image of Binomial distribution: Image from: http://www.malinc.se/math/iframeImages/s_binomial1.png
 * The Binomial Distribution Formula: https://www.youtube.com/watch?v=BA0OI41VzBA
+* Example of binomial distribution in call center analyses: https://towardsdatascience.com/fun-with-the-binomial-distribution-96a5ecabf65b
