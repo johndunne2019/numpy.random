@@ -172,3 +172,10 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * Image of standard_normal distribution:  https://mathbitsnotebook.com/Algebra2/Statistics/STstandardNormalDistribution.html
 * Definition of standard_normal distribution: https://mathbitsnotebook.com/Algebra2/Statistics/STstandardNormalDistribution.html
 * The standard normal distribution: http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/BS704_Probability9.html
+
+**Section 3.4 - Binomial Distribution**
+* The numpy.random.binomial documemtation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.binomial.html#numpy.random.binomial
+* Binomial distribution: https://www.britannica.com/science/binomial-distribution
+* Binomisl distribution: https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/binomial-theorem/binomial-distribution-formula/
+* Video on Binomial distribution: https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/binomial-random-variables/v/binomial-distribution
+* How to tell if an experiment is binomial: https://www.youtube.com/watch?v=NhqkZuWwGrA
