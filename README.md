@@ -179,3 +179,5 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * Binomisl distribution: https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/binomial-theorem/binomial-distribution-formula/
 * Video on Binomial distribution: https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/binomial-random-variables/v/binomial-distribution
 * How to tell if an experiment is binomial: https://www.youtube.com/watch?v=NhqkZuWwGrA
+* Image of Binomial distribution: Image from: http://www.malinc.se/math/iframeImages/s_binomial1.png
+* The Binomial Distribution Formula: https://www.youtube.com/watch?v=BA0OI41VzBA
