@@ -182,3 +182,4 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * Image of Binomial distribution: Image from: http://www.malinc.se/math/iframeImages/s_binomial1.png
 * The Binomial Distribution Formula: https://www.youtube.com/watch?v=BA0OI41VzBA
 * Example of binomial distribution in call center analyses: https://towardsdatascience.com/fun-with-the-binomial-distribution-96a5ecabf65b
+* How to graph the binomial distribution: https://www.dummies.com/education/math/business-statistics/how-to-graph-the-binomial-distribution/
