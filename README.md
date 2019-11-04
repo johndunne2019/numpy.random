@@ -102,6 +102,9 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * pyplot.rcparams documentation: https://matplotlib.org/3.1.1/tutorials/introductory/customizing.html and https://matplotlib.org/3.1.1/api/matplotlib_configuration_api.html#matplotlib.rcParams
 * Changing line size and line width read in the text section of the matplotlib.pyplot documentation: https://matplotlib.org/tutorials/introductory/pyplot.html
 * Changing the appearance of a line in a plot in pyplot: https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/
+* Blog post on matplotlib:  https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/#3.-How-to-draw-two-sets-of-scatterplots-in-same-plot
+* Python plotting with matplotlib: https://realpython.com/python-matplotlib-guide/
+* matplotlib.pyplot.subplot documentation: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.subplot.html
 
 **Section 1 - What is numpy.random and what is the overall purpose of the package**
 * numpy.random documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
@@ -113,6 +116,8 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 **Section 2.1.1- numpy.random.rand**
 * numpy.random.rand documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.rand.html#numpy.random.rand
 * Uniform distribution: http://mathworld.wolfram.com/UniformDistribution.html
+* Plotting 2 scatter plots side by side:  https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/#3.-How-to-draw-two-sets-of-scatterplots-in-same-plot
+* matplotlib.pyplot.subplot documentation: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.subplot.html
 
 **Section 2.1.2- numpy.random.randn**
 * numpy.random.randn: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.randn.html#numpy.random.randn
