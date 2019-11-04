@@ -76,6 +76,7 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 **This section contains details on the references and research that went into compiling this project.**
 
 **jupyter notebook**
+
 * Embed images in jupyter notebook- https://stackoverflow.com/questions/32370281/how-to-embed-image-or-picture-in-jupyter-notebook-either-from-a-local-machine-o
 * Mastering Markdown - https://guides.github.com/features/mastering-markdown/
 * Markdown cells - https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html
@@ -108,6 +109,8 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 
 **Section 1 - What is numpy.random and what is the overall purpose of the package**
 * numpy.random documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
+* Youtube tutorial: https://www.youtube.com/watch?v=uhP7_Of5WX8&t=14s
+* Numpy Random ALL EXPLAINED!!!: https://www.youtube.com/watch?v=uhP7_Of5WX8&t=14s
 
 
 **Section 2.1 - Simple Random Data**
@@ -136,6 +139,7 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 **Section 2.2.1 - numpy.random.shuffle**
 * numpy.random.shuffle documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.shuffle.html#numpy.random.shuffle
 * How to randomly shuffle an array in python using numpy- https://www.science-emergence.com/Articles/How-to-randomly-shuffle-an-array-in-python-using-numpy/
+* Shuffle multidimensional array: https://stackoverflow.com/questions/35646908/numpy-shuffle-multidimensional-array-by-row-only-keep-column-order-unchanged
 
 **Section 2.2.2 - numpy.random.permutation**
 * numpy.random.permutation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.permutation.html#numpy.random.permutation
