@@ -118,7 +118,7 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * Uniform distribution: http://mathworld.wolfram.com/UniformDistribution.html
 * Plotting 2 scatter plots side by side:  https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/#3.-How-to-draw-two-sets-of-scatterplots-in-same-plot
 * matplotlib.pyplot.subplot documentation: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.subplot.html
-
+* matplotlib.axes.Axes.set_title: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.set_title.html#matplotlib.axes.Axes.set_title
 **Section 2.1.2- numpy.random.randn**
 * numpy.random.randn: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.randn.html#numpy.random.randn
 * numpy.random.randn: https://onlinecoursetutorials.com/numpy/numpy-random-randn-function-with-example-in-python/
