@@ -172,3 +172,10 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * The Binomial Distribution Formula: https://www.youtube.com/watch?v=BA0OI41VzBA
 * Example of binomial distribution in call center analyses: https://towardsdatascience.com/fun-with-the-binomial-distribution-96a5ecabf65b
 * How to graph the binomial distribution: https://www.dummies.com/education/math/business-statistics/how-to-graph-the-binomial-distribution/
+
+**Section 3.5 - poisson([lam, size]) - References**
+* numpy.random.poisson documentation: https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.random.poisson.html#numpy.random.poisson
+* Random variables and probability distributions: https://www.britannica.com/science/statistics/Random-variables-and-probability-distributions
+* The Poisson Distribution: https://www.youtube.com/watch?v=Fk02TW6reiA
+* The Poisson Distribution and Poisson Process Explained: https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459
+* Poisson distribution: https://www.datacamp.com/community/tutorials/probability-distributions-python
