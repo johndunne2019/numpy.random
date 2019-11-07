@@ -93,6 +93,14 @@ This assignment concerns the numpy.random package in Python. In completing this 
 * Plotting 2 scatter plots side by side:  https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/#3.-How-to-draw-two-sets-of-scatterplots-in-same-plot
 * matplotlib.pyplot.subplot documentation: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.subplot.html
 * matplotlib.axes.Axes.set_title: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.set_title.html#matplotlib.axes.Axes.set_title
+* matplotlib.pyplot.hist(): https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.hist.html#matplotlib.pyplot.hist
+* matplotlib.pyplot.xlabel: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.xlabel.html#matplotlib.pyplot.xlabel
+* matplotlib.pyplot.ylabel: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.ylabel.html#matplotlib.pyplot.ylabel
+* matplotblib.pylplot.show(): https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.show.html#matplotlib.pyplot.show
+* matplotlib.pyplot.plot(): https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.plot.html#matplotlib.pyplot.plot
+* matplotlib.pyplot.title(): https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.title.html#matplotlib.pyplot.title
+* Blog post showing how to change appearance of the points plotted by pyplot: https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/
+* help(plt.plot): Type this command in jupyter notebook to see details on changing line style in a plot
 
 **Section 2.1.2- numpy.random.randn**
 * numpy.random.randn: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.randn.html#numpy.random.randn
@@ -104,6 +112,9 @@ This assignment concerns the numpy.random package in Python. In completing this 
 * numpy.random.bytes: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.bytes.html#numpy.random.bytes
 
 **Section 2.1.4 - numpy.random.random_sample**
+* numpy.random.random_sample documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.random_sample.html#numpy.random.random_sample
+* Random sampling: https://www.geeksforgeeks.org/random-sampling-in-numpy-random_sample-function/
+* Stack overflow: https://stackoverflow.com/questions/56315667/why-do-we-multiply-calls-to-numpy-random-random-by-numbers-and-subtract-numbers
 
 **Section 2.2 - Permutations**
 * numpy.random Permutations documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
