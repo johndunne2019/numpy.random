@@ -31,29 +31,21 @@ This assignment concerns the numpy.random package in Python. In completing this 
 3. Explain the use and purpose of at least five "Distributions" functions.
 4. Explain the use of seeds in generating pseudorandom numbers. 
 
-## Some details below on what is included in each section of my jupyter notebook
+## About jupyter notebook
 
-### Section 0 - Introduction to NumPy
-* The official NumPy documentation: https://numpy.org/
-* The quickstart tutorial https://numpy.org/devdocs/user/quickstart.html
-* What is NumPy: https://docs.scipy.org/doc/numpy-1.13.0/user/whatisnumpy.html
+**Below are some interesting facts I learnt about jupyter notebook through lecture videos and further research**
 
-NumPy is used to work with arrays and provides many different functions that can be used to work with arrays. One important point to note that was discussed in one of the lecture videos is that NumPy likes all the data it is working with to be the same type, for example all floating point or all integers. Another useful package that can be used to work with data sets that have combinations of different data types is pandas.  
-The main object within NumPy is the multidimensional array. An array is a table of elements that contains data all of the same type, usually numbers. An example array would look like - [1,2,3,4]. The array class in NumPy is known as ndarray or numpy.array and withing this class there are many functions that can be used to manipulate datas within arrays. 
-
-### Section 1 - What is numpy.random and what is the overall purpose of the package?
-numpy.random is a package in Python that is used to generate random sampling from a set of parameters entered by the user.
-The official numpy.random documentation can be viewed here: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html. There are many different functions within the numpy.random package which can be used for different purposes and a full list of the functions is shown in the documentation at the link above. 
-
-### Section 2 - "Simple Random Data" and "Permutations"
-
-
-### Section 3 - "Distributions"
-
-### Section 4  - The use of Seeds in generating pseudorandom numbers
+* jupyter notebooks contain cells and the user can enter as many arguments as they like in each cell however jupyter will only return the result of the last entered argument in the cell by default. In order to have the results of all arguments in a cell returned the user must wrap each argument in a print statement.
+* jupyter acts like ipython with the key difference that the user interacts with the jupyter browser which offers an extra layer of functionality including the user can use the mouse to move around and select different areas of the notebook. 
+* There are 2 different modes when viewing a cell in jupyter, edit mode which appears in green on the left side of the cell and read mode which appears in blue on the left side of the cell.
+* There are 2 different modes that can be used when writing in a jupyter notebook - markdown and code. To move between the 2 modes when writing in a notebook the user can hit the ESC key and then M to move to markdown mode and Y to move to code mode. 
+* When a user wants to execute an argument they should hold down the shift key and press enter and the output will be displayed in the notebook. 
+* There are keyboard shortcuts that can be used, one example is a which adds "a" new cells above the cell the cursor is currently located in and "b" which adds a new cell below the cell the cursor is currently located in. A full list of keyboard shortcuts can be accessed in the help section of the jupyter browser. 
+* The numbers that appears on the left side of the screen on the cells containing code indicate the order in which the commands were passed to the kernel. jupyter remembers the arguments that have been previously passed to the kernel. 
+* The user can reset the kernel and clear output by going to the toolbar in the browser and selecting restart and clear output. When the user sends each argument to the kernel after this point they will see the numbers on the left hand side start again from 1. 
 
 ## References 
-**This section contains details on the references and research that went into compiling this project.**
+**This section contains details on the references and research that went into compiling this project. The references are also listed in each section of the jupyter notebook.**
 
 **jupyter notebook**
 
@@ -61,14 +53,6 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * Mastering Markdown - https://guides.github.com/features/mastering-markdown/
 * Markdown cells - https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html
 * Markdown - https://www.tutorialspoint.com/jupyter/jupyter_notebook_markdown_cells.htm
-
-**Section 0 - Introduction to NumPy**
-* Official numpy documentation: https://numpy.org/
-* Official NumPy tutorial: https://numpy.org/devdocs/user/quickstart.html
-* What is NumPy: https://docs.scipy.org/doc/numpy-1.13.0/user/whatisnumpy.html
-* Learn NumPy in 5 minutes tutorial: https://www.youtube.com/watch?v=xECXZ3tyONo
-* Complete Python NumPy tutorial: https://www.youtube.com/watch?v=GB9ByFAIAH4
-* NumPy Python image: https://i2.wp.com/www.simplifiedpython.net/wp-content/uploads/2018/11/Python-NumPy-14.png?resize=595%2C233&ssl=1
 
 **matplotlib**
 * matplotlib.pyplot documentation: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.html
@@ -87,11 +71,18 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * Python plotting with matplotlib: https://realpython.com/python-matplotlib-guide/
 * matplotlib.pyplot.subplot documentation: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.subplot.html
 
+**Section 0 - Introduction to NumPy**
+* Official numpy documentation: https://numpy.org/
+* Official NumPy tutorial: https://numpy.org/devdocs/user/quickstart.html
+* What is NumPy: https://docs.scipy.org/doc/numpy-1.13.0/user/whatisnumpy.html
+* Learn NumPy in 5 minutes tutorial: https://www.youtube.com/watch?v=xECXZ3tyONo
+* Complete Python NumPy tutorial: https://www.youtube.com/watch?v=GB9ByFAIAH4
+* NumPy Python image: https://i2.wp.com/www.simplifiedpython.net/wp-content/uploads/2018/11/Python-NumPy-14.png?resize=595%2C233&ssl=1
+
 **Section 1 - What is numpy.random and what is the overall purpose of the package**
 * numpy.random documentation: https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html
 * Youtube tutorial: https://www.youtube.com/watch?v=uhP7_Of5WX8&t=14s
 * Numpy Random ALL EXPLAINED!!!: https://www.youtube.com/watch?v=uhP7_Of5WX8&t=14s
-
 
 **Section 2.1 - Simple Random Data**
 * Simple Random Data full list of functions:  https://docs.scipy.org/doc/numpy-1.16.0/reference/routines.random.html#simple-random-data
@@ -102,6 +93,7 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * Plotting 2 scatter plots side by side:  https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/#3.-How-to-draw-two-sets-of-scatterplots-in-same-plot
 * matplotlib.pyplot.subplot documentation: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.subplot.html
 * matplotlib.axes.Axes.set_title: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.set_title.html#matplotlib.axes.Axes.set_title
+
 **Section 2.1.2- numpy.random.randn**
 * numpy.random.randn: https://docs.scipy.org/doc/numpy-1.16.0/reference/generated/numpy.random.randn.html#numpy.random.randn
 * numpy.random.randn: https://onlinecoursetutorials.com/numpy/numpy-random-randn-function-with-example-in-python/
@@ -179,3 +171,12 @@ The official numpy.random documentation can be viewed here: https://docs.scipy.o
 * The Poisson Distribution: https://www.youtube.com/watch?v=Fk02TW6reiA
 * The Poisson Distribution and Poisson Process Explained: https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459
 * Poisson distribution: https://www.datacamp.com/community/tutorials/probability-distributions-python
+
+**Section 4 - The use of seeds in generating pseudorandom numbers - References**
+* numpy.random.seed documentation: https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.random.seed.html#numpy.random.seed
+* Pseudo Random Number Generator (PRNG)- https://www.geeksforgeeks.org/pseudo-random-number-generator-prng/
+* Introduction to Randomness and Random Numbers: https://www.random.org/randomness/
+* What does numpy.random.seed do: https://stackoverflow.com/questions/21494489/what-does-numpy-random-seed0-do
+* Khan Academy: https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/random-vs-pseudorandom-number-generators
+* numpy random seed blog post: https://www.sharpsightlabs.com/blog/numpy-random-seed/
+* How Does Your Computer Generate Random Numbers? - https://www.sicara.ai/blog/2019-01-28-how-computer-generate-random-numbers
